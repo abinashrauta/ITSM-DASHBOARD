@@ -55,3 +55,9 @@ This dashboard helps organizations:
 ## 📌 Skills Demonstrated
 
 `Power BI` • `Dashboard Development` • `Data Visualization` • `Business Intelligence` • `DAX` • `Power Query` • `Client Analytics`
+
+**Screenshot /demo**
+
+Dashboard look like - **https://github.com/abinashrauta/ITSM-DASHBOARD/blob/main/ticeting%20tool%20dashboard.pbix****
+
+
